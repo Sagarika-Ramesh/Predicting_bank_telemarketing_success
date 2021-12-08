@@ -1,0 +1,14 @@
+L1 Models:
+{'ML_algo__C': 100.0, 'ML_algo__max_iter': 100000000, 'ML_algo__penalty': 'l1', 'ML_algo__solver': 'saga'}
+{'ML_algo__C': 35.938136638046274, 'ML_algo__max_iter': 100000000, 'ML_algo__penalty': 'l1', 'ML_algo__solver': 'saga'}
+{'ML_algo__C': 1.668100537200059, 'ML_algo__max_iter': 100000000, 'ML_algo__penalty': 'l1', 'ML_algo__solver': 'saga'}
+{'ML_algo__C': 100.0, 'ML_algo__max_iter': 100000000, 'ML_algo__penalty': 'l1', 'ML_algo__solver': 'saga'}
+{'ML_algo__C': 100.0, 'ML_algo__max_iter': 100000000, 'ML_algo__penalty': 'l1', 'ML_algo__solver': 'saga'}
+**********************
+L1 test scores:
+0.8822855135248232
+0.8859532335507246
+0.8847846533034557
+0.8866302534997025
+0.8823669463347431
+beta score: (mean)0.8844041200426898+/-0.00179659670965147(standard deviation)

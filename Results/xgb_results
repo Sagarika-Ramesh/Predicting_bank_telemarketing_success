@@ -1,0 +1,16 @@
+
+************************************
+RANDOM STATE: 5
+Best test scores: 0.9075488806732503 ---->   Best max_depth: 6Best subsample: 0.66learning_rate: 0.03,  n_estimators: 10000, colsample_bytree: 0.9
+************************************
+RANDOM STATE: 10
+Best test scores: 0.9080556894179012 ---->   Best max_depth: 6Best subsample: 0.5learning_rate: 0.03,  n_estimators: 10000, colsample_bytree: 0.9
+************************************
+RANDOM STATE: 13
+Best test scores: 0.9011462104146671 ---->   Best max_depth: 6Best subsample: 0.5learning_rate: 0.03,  n_estimators: 10000, colsample_bytree: 0.9
+************************************
+RANDOM STATE: 20
+Best test scores: 0.9117041243199658 ---->   Best max_depth: 6Best subsample: 0.5learning_rate: 0.03,  n_estimators: 10000, colsample_bytree: 0.9
+************************************
+RANDOM STATE: 25
+Best test scores: 0.9051853312548335 ---->   Best max_depth: 6Best subsample: 0.5learning_rate: 0.03,  n_estimators: 10000, colsample_bytree: 0.9Beta score:(mean)0.901339409365052+/-0.002775828289914504(standard deviation)
