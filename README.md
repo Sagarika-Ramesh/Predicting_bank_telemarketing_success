@@ -1,4 +1,4 @@
-# Project1030
+# Pridicting the client subscription to a term deposit
 
 Versions of the packages being used:
 • Python version -> 3.9.4
